@@ -7,6 +7,7 @@ public class Class_test3 {
 		int a=1,b=6,c=10,d;
 		d=b-a+c;
 		d=d-c;
+		d=d-a;
 		System.out.println(d);
 
 	}
